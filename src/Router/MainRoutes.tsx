@@ -8,7 +8,7 @@ const MainRoutes = () => {
   return (
     <Suspense fallback={<span>Loading</span>}>
       <Routes>
-        <Route path="/" element={<JobList />} />
+        <Route path="/home" element={<JobList />} />
         <Route path="/:id" element={<JobDetailed />} />
       </Routes>
     </Suspense>
