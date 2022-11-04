@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Job-Alert/static/css/main.bd20f953.css",
+    "main.js": "/Job-Alert/static/js/main.5687fe76.js",
+    "static/css/642.edd6b011.chunk.css": "/Job-Alert/static/css/642.edd6b011.chunk.css",
+    "static/js/642.84e5419f.chunk.js": "/Job-Alert/static/js/642.84e5419f.chunk.js",
+    "static/css/109.edd6b011.chunk.css": "/Job-Alert/static/css/109.edd6b011.chunk.css",
+    "static/js/109.f90042bd.chunk.js": "/Job-Alert/static/js/109.f90042bd.chunk.js",
+    "static/js/731.81458679.chunk.js": "/Job-Alert/static/js/731.81458679.chunk.js",
+    "static/media/map.png": "/Job-Alert/static/media/map.05ab15ac4200a249f7c3.png",
+    "index.html": "/Job-Alert/index.html",
+    "main.bd20f953.css.map": "/Job-Alert/static/css/main.bd20f953.css.map",
+    "main.5687fe76.js.map": "/Job-Alert/static/js/main.5687fe76.js.map",
+    "642.edd6b011.chunk.css.map": "/Job-Alert/static/css/642.edd6b011.chunk.css.map",
+    "642.84e5419f.chunk.js.map": "/Job-Alert/static/js/642.84e5419f.chunk.js.map",
+    "109.edd6b011.chunk.css.map": "/Job-Alert/static/css/109.edd6b011.chunk.css.map",
+    "109.f90042bd.chunk.js.map": "/Job-Alert/static/js/109.f90042bd.chunk.js.map",
+    "731.81458679.chunk.js.map": "/Job-Alert/static/js/731.81458679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd20f953.css",
+    "static/js/main.5687fe76.js"
+  ]
+}
