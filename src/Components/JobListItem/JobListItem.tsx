@@ -39,7 +39,7 @@ const JobListItem: FC<IJob> = ({
         </ImgWrap>
         <TitleWrap>
           <ItemTitle>
-            <Title to={`/${id}`}>{title}</Title>
+            <Title to={`/Job-Alert/${id}`}>{title}</Title>
           </ItemTitle>
           <ItemSubtitle>Department name • {name}</ItemSubtitle>
           <ItemLocation>
